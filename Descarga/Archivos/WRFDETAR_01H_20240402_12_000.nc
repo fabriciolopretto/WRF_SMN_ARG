@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>DATA/WRF/DET/2024/04/02/12/WRFDETAR_01H_20240402_12_000.nc</Key><RequestId>26T96PY5MBE0JTEY</RequestId><HostId>Kf9qZzCiBHlNf0O03WWwb7DqGqZwUvYKGE5iJm8/N6+6pI+QnCSS8rE+jFDMHhc3+SoeXqV5uKg=</HostId></Error>
